@@ -8,7 +8,7 @@
 /* Page */
 body {
 	background: #333333 url('../images/page-background.png') repeat top left;
-	font-family: arial,sans-serif;
+	font-family: 'Oswald';
 	padding:1%;
 	margin:1%;
 }
@@ -60,7 +60,7 @@ a:hover {
 }
 
 h1, h2 {
-	font-family: georgia,serif;
+	font-family: 'Oswald';
 }
 
 h1 {
